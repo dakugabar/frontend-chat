@@ -1,0 +1,22 @@
+  'health', 'medical', 'doctor', 'hospital', 'pain', 'symptom', 'disease',
+      'illness', 'condition', 'treatment', 'medicine', 'drug', 'prescription',
+      'body', 'organ', 'heart', 'lung', 'liver', 'kidney', 'brain', 'blood',
+      'bone', 'muscle', 'nerve', 'skin', 'eye', 'ear', 'nose', 'throat',
+      'stomach', 'digestion', 'respiratory', 'cardiovascular', 'neurological',
+      'mental health', 'anxiety', 'depression', 'fever', 'cough', 'headache',
+      'allergy', 'infection', 'virus', 'bacteria', 'vaccine', 'exercise',
+      'diet', 'nutrition', 'vitamin', 'mineral', 'pregnancy', 'child care',
+      'elderly care', 'chronic', 'acute', 'diagnosis', 'test', 'x-ray', 'scan',
+      'surgery', 'therapy', 'recovery', 'rehabilitation', 'first aid', 'emergency',
+      '911', 'urgent', 'bleeding', 'unconscious', 'heart attack', 'stroke',
+      'choking', 'severe pain', 'can\'t breathe', 'suicide', 'self-harm'
+
+
+
+      'AIzaSyAu7tN9BLxOgq8GP4uX1AoJ_IOdz8gs0lQ'
+
+
+      import '../app/components/pagescss/admin.css';
+import WebsiteList from '../app/admincomponents/WebsiteForm';
+import AddNewButton from '../app/admincomponents/AddNewButton';
+import WebsiteForm from '../app/admincomponents/WebsiteForm';
